@@ -1,0 +1,3 @@
+git remote add origin""REPOLINK
+git commit -m ""
+git push
